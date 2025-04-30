@@ -1,0 +1,27 @@
+[
+    {
+      "id": "cloud-architecture-best-practices",
+      "title": "Cloud Architecture Best Practices for 2025",
+      "date": "2023-06-15",
+      "excerpt": "Explore the latest best practices for designing scalable and resilient cloud architectures in 2023.",
+      "file": "cloud-architecture-best-practices.md",
+      "image": "images/articles/cloud-architecture.jpg"
+    },
+    {
+      "id": "microservices-vs-monoliths",
+      "title": "Microservices vs. Monoliths: Choosing the Right Architecture",
+      "date": "2023-05-10",
+      "excerpt": "A comprehensive comparison of microservices and monolithic architectures to help you make the right choice for your project.",
+      "file": "microservices-vs-monoliths.md",
+      "image": "images/articles/microservices.jpg"
+    },
+    {
+      "id": "devops-culture",
+      "title": "Building a DevOps Culture in Traditional Organizations",
+      "date": "2023-04-22",
+      "excerpt": "Strategies and tactics for successfully implementing DevOps practices in organizations with traditional development processes.",
+      "file": "devops-culture.md",
+      "image": "images/articles/devops.jpg"
+    }
+  ]
+  
